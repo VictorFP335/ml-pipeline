@@ -85,3 +85,9 @@ Copiar código
 git add README.md
 git commit -m "Adicionar README.md completo para submissão"
 git push origin main
+
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT.  
+Créditos: VictorFP335
