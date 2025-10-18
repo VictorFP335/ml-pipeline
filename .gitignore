@@ -1,0 +1,12 @@
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos do sistema
+.DS_Store
+
+# Ignorar relatório gerado automaticamente (opcional)
+report.txt
