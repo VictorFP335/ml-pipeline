@@ -1,3 +1,5 @@
+## Tarefa Prática: Github Actions
+
 # ML Pipeline
 
 Este repositório contém um **workflow automatizado de Machine Learning** que, a cada push, executa um script Python (`train.py`) para treinar um modelo de **Logistic Regression** e gera um relatório de classificação.
