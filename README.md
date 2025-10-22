@@ -91,6 +91,11 @@ git commit -m "Adicionar README.md completo para submissão"
 git push origin main
 ```
 
+## Screenshot
+
+<img width="780" height="257" alt="Captura de tela 2025-10-22 171214" src="https://github.com/user-attachments/assets/f5703f17-5eab-4d90-9082-d1dee3ccffbb" />
+
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.  
